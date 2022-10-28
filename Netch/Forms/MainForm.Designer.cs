@@ -535,7 +535,7 @@
             this.HttpStatusLabel,
             this.NatTypeStatusLabel,
             this.NatTypeStatusLightLabel});
-            this.StatusStrip.Location = new System.Drawing.Point(0, 272);
+            this.StatusStrip.Location = new System.Drawing.Point(0, 267);
             this.StatusStrip.Name = "StatusStrip";
             this.StatusStrip.Size = new System.Drawing.Size(740, 22);
             this.StatusStrip.SizingGrip = false;
@@ -713,7 +713,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi;
             this.AutoSize = true;
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.ClientSize = new System.Drawing.Size(740, 294);
+            this.ClientSize = new System.Drawing.Size(740, 289);
             this.Controls.Add(this.MenuStrip);
             this.Controls.Add(this.StatusStrip);
             this.Controls.Add(this.flowLayoutPanel1);
