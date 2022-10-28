@@ -35,7 +35,7 @@ Some features may not be implemented in version 1
 - .NET 6.0 x64
 
 ## Sponsor
-<a href="https://www.jetbrains.com/?from=Netch"><img src="jetbrains.svg" alt="JetBrains" width="200"/></a>
+<a href="https://discord.gg/4RF5ZJa2bF"><img src="https://media.discordapp.net/attachments/1034677522383765578/1035263157159067708/C3.jpg" alt="NetchLK" width="200"/></a>
 
 ## License
 Netch is licensed under the [GPLv3](https://raw.githubusercontent.com/netchx/netch/main/LICENSE) license
