@@ -1,9 +1,9 @@
 # `In preparation for 2.0, this repository will be cleared of all 1.0 related releases and code`
-<p align="center"><img src="https://github.com/NetchX/Netch/blob/main/Netch/Resources/Netch.png?raw=true" width="128" /></p>
+<p align="center"><img src="https://media.discordapp.net/attachments/1034677522383765578/1035262655058935858/Asset_5.png" width="128" /></p>
 
 <div align="center">
 
-# Netch
+# Netch LK
 A simple proxy client
 
 [![](https://img.shields.io/badge/telegram-group-green?style=flat-square)](https://t.me/netch_group)
