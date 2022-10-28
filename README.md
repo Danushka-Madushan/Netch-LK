@@ -12,9 +12,6 @@ A simple proxy client
 [![](https://img.shields.io/github/v/release/netchx/netch?style=flat-square)](https://github.com/netchx/netch/releases)
 </div>
 
-## Features
-Some features may not be implemented in version 1
-
 ### Modes
 - `ProcessMode` - Use Netfilter driver to intercept process traffic
 - `ShareMode` - Share your network based on WinPcap / Npcap
