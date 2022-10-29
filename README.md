@@ -8,8 +8,8 @@ A simple proxy client
 
 [![](https://img.shields.io/badge/telegram-group-green?style=flat-square)](https://t.me/netch_group)
 [![](https://img.shields.io/badge/telegram-channel-blue?style=flat-square)](https://t.me/netch_channel)
-[![](https://img.shields.io/github/downloads/netchx/netch/total.svg?style=flat-square)](https://github.com/netchx/netch/releases)
-[![](https://img.shields.io/github/v/release/netchx/netch?style=flat-square)](https://github.com/netchx/netch/releases)
+[![](https://img.shields.io/github/downloads/netchx/netch/total.svg?style=flat-square)](https://github.com/Danushka-Madushan/Netch-LK/releases)
+[![](https://img.shields.io/github/v/release/Danushka-Madushan/Netch-LK?style=flat-square)](https://github.com/Danushka-Madushan/Netch-LKh/releases)
 </div>
 
 ### Modes
